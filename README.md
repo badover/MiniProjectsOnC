@@ -1,2 +1,3 @@
 # MiniProjectsOnC
-My mini projects on c
+## My mini projects on c
+### Enjoy!
